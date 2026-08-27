@@ -14,6 +14,9 @@ public class Tp2GUIGIT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        
+        System.out.println("funciona esto?");
         // TODO code application logic here
     }
     
